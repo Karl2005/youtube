@@ -1,0 +1,102 @@
+.A12{
+  display:flex;
+  flex-direction:row;
+  margin-bottom: 50px;
+}
+
+.big{
+  background-color:lightblue;
+  width:200px;
+}
+
+.small{
+background-color: lightpink;
+width:75px;
+}
+
+.B12{
+  display:flex;
+  flex-direction: row;
+  margin-bottom:50px;
+}
+
+.one{
+  width:50px;
+  background-color:lightblue;
+}
+
+.two{
+  flex:1;
+  background-color:lightpink;
+}
+
+.three{
+ width: 75px;
+ background-color:lightblue ;
+}
+
+.C12{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.first,
+.second,
+.third,
+.fourth{
+  background-color:lightpink;
+}
+
+.D12{
+  height:50px;
+  border-width:1px;
+  border-color:gray;
+  display:flex;
+  flex-direction: row;
+  justify-content:space-between;
+  border-style: solid;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.oneD,
+.twoD{
+  background-color: lightpink;
+}
+
+.E12{
+  display:flex;
+  flex-direction: column;
+  border-style:solid;
+  border-width:1px;
+  border-color:gray;
+  border-radius:2px;
+  justify-content:space-between;
+}
+
+
+.No1{
+  background-color: blue;
+  color:white;
+  border-radius: 25px;
+  margin-right: 5px;
+}
+
+.home{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.home,
+.No1{
+  margin-top:5px;
+}
+
+.No1{
+  padding: 5px;
+}

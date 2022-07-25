@@ -1,0 +1,55 @@
+.cat-1{
+  width:40px;
+  height: 40px;
+  border-radius:20px;
+}
+
+.text1{
+  font-weight: 700;
+  margin-right: 15px;
+}
+
+.Span-text{
+  color:gray;
+}
+
+.container{
+  display:flex;
+  flex-direction:row;
+
+}
+
+.text2{
+  font-weight: 400;
+}
+
+.row1{
+  margin-left:20px;
+}
+
+.row2{
+  margin-left:20px;
+  margin-top: 20px;
+  border-style: solid;
+  border-color:gray;
+  border-radius:20px;
+  height:100px;
+  border-width: 1.5px;
+}
+
+.color{
+  height: 100px;
+  width:100px;
+  background-color: gray;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  margin-left: -1px;
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: gray;
+  vertical-align: top;
+}
+
+.word1{
+  width: 200px;
+}

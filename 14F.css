@@ -1,0 +1,36 @@
+body{
+  height:3000px;
+}
+
+.cat{
+  height:50px;
+  width:50px;
+  border-radius: 25px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.left{
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  padding-left: 10px;
+  padding-bottom: 110px;
+  width:70px;
+  padding-top: 10px;
+}
+
+.container{
+  display: flex;
+  position: fixed;
+  left:0;
+  top:0;
+  bottom:0;
+}
+
+.middle{
+  background-color: gray;
+  padding-left: 15px;
+  padding-top: 10px;
+  width:150px;
+}

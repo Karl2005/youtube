@@ -1,0 +1,16 @@
+.name{
+  opacity: 0;
+  border-style: solid;
+  border-width: 1px;
+  background-color: blue;
+  position: absolute;
+}
+
+.cat:hover .name
+{
+ opacity:1;
+}
+
+.cat{
+  position: relative;
+}

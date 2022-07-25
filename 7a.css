@@ -1,0 +1,42 @@
+.search{
+  border-radius:50px;
+  border-color: solid;
+}
+
+.Liverpool{
+  width:200px;
+  border-radius:100px;
+  background-color:blue;
+  height:200px;
+  object-fit:contain;
+}
+
+.google-search{
+  border-radius:10px;
+  width:300px;
+  border:none;
+  box-shadow:0px 1px 5px rgba(0, 0, 0, 0.25);
+  margin-top:50px;
+  margin-left:50px;
+  margin-bottom:150px;
+}
+
+.email-search{
+  width:300px;
+  border-radius:5px;
+  border-width: 2px;
+  border-style:solid;
+  
+}
+
+.button{
+  background-color:rgb(77, 77, 141);
+  border-radius:40px;
+  color:white;
+  padding-right:120px;
+  padding-left:120px;
+  padding-top:20px;
+  padding-bottom:20px;
+  border:none;
+  font-size:20px;
+}

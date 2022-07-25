@@ -1,0 +1,32 @@
+.flexbox{
+  background-color: white;
+  border-radius: 5px;
+  width:400px;
+  
+}
+
+.title{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.body{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+body{
+  height:3000px;
+}
+
+.overlay{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  background-color: rgba(0,0,0,0.5);
+}

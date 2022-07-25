@@ -1,0 +1,19 @@
+.close-button{
+  color: white;
+  background-color: black;
+  position: absolute;
+  width:30px;
+  height:30px;
+  border-radius: 15px;
+  top:0;
+  right:0;
+}
+
+.background{
+  width:320px;
+  height:180px;
+  background-color: gray;
+  right:0;
+  bottom:0;
+  position: absolute;
+}

@@ -1,0 +1,28 @@
+.container{
+  width:300px;
+}
+
+.Pic{
+  width: 100%;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns: 68px 1fr;
+}
+
+.text{
+  display:inline-block;
+  width:100px;
+  color:red;
+  background-color: green;
+}
+
+.channel-pic{
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.channel-image{
+  width: 50px;
+}
